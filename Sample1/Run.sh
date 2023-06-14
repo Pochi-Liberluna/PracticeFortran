@@ -1,1 +1,1 @@
-$ gfortran Sample.f90 -o hello
+$ gfortran Sample1.f90 -o hello
